@@ -26,7 +26,9 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+/********fix this import with your package name **********/
 import uk.ac.imperial.epicollect5ionic.R;
+/********************************************************/
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
