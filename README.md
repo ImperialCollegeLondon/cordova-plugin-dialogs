@@ -25,6 +25,7 @@ Added better spinner loader for startActivity: if title and message are empty st
 
 Also the ProgressDialog is NOT cancelable by the user.
 
-Important: fix the package name in the import statement otherwise it will not compile
+Important: fix the package name in the import statement otherwise it will not compile, anyway this will only work with:
+`import uk.ac.imperial.epicollect5.R`
 
 
