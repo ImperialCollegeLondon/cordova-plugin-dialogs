@@ -27,7 +27,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 /********fix this import with your package name **********/
-import uk.ac.imperial.epicollect5ionic.R;
+import uk.ac.imperial.epicollect5.R;
 /********************************************************/
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
