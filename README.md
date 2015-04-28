@@ -21,11 +21,11 @@
 
 ## Customisations for Epicollect5 Mobile Client
 
-Added better spinner loader for startActivity: if title and message are empty string, just a centered loader with overlay is shown.
+~~Added better spinner loader for startActivity: if title and message are empty string, just a centered loader with overlay is shown.~~
 
-Also the ProgressDialog is NOT cancelable by the user.
+The ProgressDialog is NOT cancelable by the user.
 
-Important: fix the package name in the import statement otherwise it will not compile, anyway this will only work with:
-`import uk.ac.imperial.epicollect5.R`
+~~Important: fix the package name in the import statement otherwise it will not compile, anyway this will only work with:
+`import uk.ac.imperial.epicollect5.R`~~
 
 
