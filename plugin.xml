@@ -61,8 +61,8 @@
             </feature>
         </config-file>
 
-        <source-file src="src/android/Notification.java" target-dir="src/org/apache/cordova/dialogs" />
-        <source-file src="src/android/res/layout/progress_dialog.xml" target-dir="res/layout" />
+        <!--<source-file src="src/android/Notification.java" target-dir="src/org/apache/cordova/dialogs" />-->
+        <!--<source-file src="src/android/res/layout/progress_dialog.xml" target-dir="res/layout" />-->
 
         <!-- android specific notification apis -->
         <js-module src="www/android/notification.js" name="notification_android">
